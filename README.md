@@ -8,4 +8,4 @@ My latest big project is [Learnify](https://learnify.ca), a workflow/study appli
 
 I am an intermediate JavaScript full-stack developer (MERN), and I have also added TypeScript, (machine learning with) Python, and Java to my skillset in 2020.
 
-You can find me on [LinkedIn](https://linkedin.com/in/richardantao), or email me [here](mailto:richardmantao@gmail.com).
+To connect with me, you can find me on [LinkedIn](https://linkedin.com/in/richardantao), or email me [here](mailto:richardmantao@gmail.com).
