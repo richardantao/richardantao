@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I recently graduated from the University of Western Ontario, with a undergraduate degree in Integrated Engineering. 
+I recently graduated from the University of Western Ontario, with an undergraduate degree in Integrated Engineering. 
 
 My latest big project is Learnify, a workflow/study application that uses machine learning and natural language processing to help students manage their schedule and prepare for assessments.
 
