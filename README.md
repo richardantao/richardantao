@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Richard, a software developer based in Toronto, ON.
+I'm Richard, a software developer based in Georgetown, ON.
 
 I recently graduated with a Bachelor of Engineering Science in Integrated Engineering from the University of Western Ontario. 
 
