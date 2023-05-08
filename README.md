@@ -8,7 +8,6 @@ To connect with me, you can find me on [LinkedIn](https://linkedin.com/in/richar
 
  <div style="text-align:center; ">
  <div>
-   <a href="https://github.com/rafaballerini">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardantao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardantao&layout=compact&langs_count=7&theme=algolia"/>
  </div>
